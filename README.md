@@ -1,4 +1,8 @@
-Ex.No:1 Implement a Hello world Activity using all lifecycles methods to display messages using Android Studio.
+
+Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+Ex.No:1 Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
+
+
 AIM:
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
 
@@ -34,5 +38,7 @@ activity_main.xml:
 
 Output:
 
+
+
 Result:
-a program is written to develop a program to detect the various life cycles of an activity and the program is successfully executed.
+Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
