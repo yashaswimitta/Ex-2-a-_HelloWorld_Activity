@@ -1,5 +1,5 @@
 
-Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student
+
 Ex.No:1 Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
 
@@ -7,7 +7,10 @@ AIM:
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
 
 EQUIPMENTS REQUIRED:
+
 Android Studio(Min. required Artic Fox)
+
+
 
 ALGORITHM:
 Step 1: Open Android Stdio and then click on File -> New -> New project.
@@ -24,9 +27,12 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 
 Step 7: Save and run the application.
 
+
+
 Program:
 Developed By: 
-Register Number: 
+Register Number:
+ 
 
 MainActivity.java:
 
